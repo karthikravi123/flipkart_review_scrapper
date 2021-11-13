@@ -64,7 +64,7 @@ products or not.
 
 And, the list goes on.
 
-In this document, we’ll take the example of buying a phone online further and try to scrap the
+ we’ll take the example of buying a phone online further and try to scrap the
 reviews from the website about the phone that we are planning to buy.
 
 For example, if we open filpkart.com and search for ‘iPhone’, the search result will be as
@@ -99,7 +99,7 @@ Search result:
 The Python app that we have developed is residing on our local machine. But to make it
 available to end-users, we need to deploy it to either an on-premise server or to a cloud
 service. Heroku is one such cloud service provider. It is free to use(till 5 applications).
-19 | P a g eWe’ll deploy this application to the Heroku cloud, and then anybody with the URL can then
+We’ll deploy this application to the Heroku cloud, and then anybody with the URL can then
 consume our app.
 
 
